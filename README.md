@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 <p>
 <p> 
 📌 html, css, asp, vb, vba, xml, sql konularında bilgiye sahibim. <br>
-🚨 Bir süredir aktif kullanmadığım için uyglama ve tekrar gerektirmektedir. 
+🚨 Bir süredir aktif kullanmadığım için uygulama tekrarı gerektirmektedir. 
