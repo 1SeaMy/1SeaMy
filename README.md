@@ -1,6 +1,6 @@
-- 👋 Merhaba, adım <b>Deniz Albayrak.</b>
-- 👀 DevSecOps konusunda kendimi geliştirmek istiyorum.
-- 🌱 Siber Güvenlik eğitimleri ve dersleri alarak ilerliyorum.
+### 👋 Hi there<p>
+- 👀 I want to bike on DevSecOps road.
+- 🌱 I am currently training in Cyber Security.
 - 💞️ <!--I’m looking to collaborate on -->...
 - 📫 
 <!---
@@ -9,5 +9,5 @@ You can click the Preview link to take a look at your changes.
 --->
 <p>
 <p> 
-📌 html, css, asp, vb, vba, xml, sql konularında bilgiye sahibim. <br>
-🚨 Bir süredir aktif kullanmadığım için uygulama tekrarı gerektirmektedir. 
+📌 html, css, asp, vb, vba, xml, sql. <br>
+🚨 May be rusted. 
