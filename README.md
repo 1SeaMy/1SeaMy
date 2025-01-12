@@ -1,5 +1,4 @@
 <p align="left">
-<a href="https://linkedin.com/in/denizalbayrak99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denizalbayrak99/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21379906/1seamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21379906/1seamy" height="30" width="40" /></a>
 <a href="https://medium.com/@deniz.albayrak_12175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deniz.albayrak_12175" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/deniz_albayrak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deniz_albayrak" height="30" width="40" /></a>
